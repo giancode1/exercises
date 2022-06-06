@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  },
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Giancarlo Culcay",
+  "license": "ISC",
+  "description": ""
+}
